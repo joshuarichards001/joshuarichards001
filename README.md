@@ -10,8 +10,8 @@
 
 <h2> About Me </h2>
 
-<img align="right" height="270px" alt="GIF" src="https://i.gifer.com/3iCL.gif" />
-
+<iframe src="https://gifer.com/embed/3iCL" width=300 height=300 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+  
 - ❤️  I love building beautiful websites and apps.
   
 - 🔵  I'm currenty working at Xero as a Graduate Engineer.
