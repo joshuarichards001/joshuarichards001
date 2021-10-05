@@ -10,7 +10,7 @@
 
 <h2> About Me </h2>
 
-<iframe src="https://gifer.com/embed/3iCL" width=300 height=300 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
 - ❤️  I love building beautiful websites and apps.
   
