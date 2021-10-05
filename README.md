@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hey! My name is Josh. Welcome to my GitHub Profile :smile:</div>
+<div size='20px'> Hey! My name's Josh and welcome to my GitHub Profile :smile:</div>
 
 <h2> About Me </h2>
 
@@ -16,7 +16,7 @@
   
 - 🔵  I'm currenty working at Xero as a Graduate Engineer.
   
-- 🔭  In my spare time I'm building Hedges, a financial portfolio management platform.
+- 📈  In my spare time I'm working on Hedges.
 
 - 🌱  I’m currently learning Ionic, Node.js and PostgreSQL.
 
