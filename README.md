@@ -12,9 +12,14 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+- ❤️  I love building beautiful websites and apps.
+  
+- 🔵  I'm currenty working at Xero as a Graduate Engineer.
+  
+- 🔭  In my spare time I'm building Hedges, a financial portfolio management platform.
 
-- 🔭 I’m currently working on Hedges, a finance portfolio management platform
+- 🌱  I’m currently learning Ionic, Node.js and PostgreSQL.
 
-- 🌱 I’m currently learning Ionic, Node.js and PostgreSQL
-
-- 💬 Talk to me about anything Web Dev! 
+- 💬  Talk to me about anything Web Dev! 
+  
+- 📫  Reach me at [joshuarichards001@gmail.com](mailto:joshuarichards001@gmail.com)
