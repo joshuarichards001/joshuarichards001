@@ -10,12 +10,8 @@ My name's [Josh Richards](https://joshrichards.dev), welcome to my GitHub Profil
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-- ❤️&nbsp;&nbsp;&nbsp;I love building beautiful websites and apps.
-  
-- 🔵&nbsp;&nbsp;&nbsp;I'm currenty working at Xero as a Graduate Engineer.
-  
-- 📈&nbsp;&nbsp;&nbsp;In my spare time I'm working on Hedges.
-
-- 🌱&nbsp;&nbsp;&nbsp;I’m currently learning Ionic, Node.js and PostgreSQL.
-  
-- 📫&nbsp;&nbsp;&nbsp;Reach me at [joshuarichards001@gmail.com](mailto:joshuarichards001@gmail.com)
+- ❤️&nbsp;&nbsp;I love building beautiful websites and apps.
+- 🔵&nbsp;&nbsp;I'm currenty working at Xero as a Graduate Engineer.
+- 📈&nbsp;&nbsp;In my spare time I'm working on Hedges.
+- 🌱&nbsp;&nbsp;I’m currently learning Ionic, Node.js and PostgreSQL.
+- 📫&nbsp;&nbsp;Reach me at [joshuarichards001@gmail.com](mailto:joshuarichards001@gmail.com)
