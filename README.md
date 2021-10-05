@@ -19,7 +19,5 @@
 - 📈  In my spare time I'm working on Hedges.
 
 - 🌱  I’m currently learning Ionic, Node.js and PostgreSQL.
-
-- 💬  Talk to me about anything Web Dev! 
   
 - 📫  Reach me at [joshuarichards001@gmail.com](mailto:joshuarichards001@gmail.com)
