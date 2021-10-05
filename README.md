@@ -4,7 +4,7 @@
 
 <h1> Hello Fellow < Developers/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<div size='20px'> My name's [Josh](https://joshrichards.dev), welcome to my GitHub Profile!</div>
+My name's [Josh](https://joshrichards.dev), welcome to my GitHub Profile!
 
 <h2> About Me </h2>
 
