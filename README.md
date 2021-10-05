@@ -10,7 +10,7 @@
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-- ❤️&nbsp;I love building beautiful websites and apps.
+- ❤️&nbsp;&nbsp;&nbsp;&nbsp;I love building beautiful websites and apps.
   
 - 🔵&nbsp;I'm currenty working at Xero as a Graduate Engineer.
   
