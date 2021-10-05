@@ -10,7 +10,7 @@
 
 <h2> About Me </h2>
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="Github" src="https://i.gifer.com/3BBS.gif" />
   
 - ❤️  I love building beautiful websites and apps.
   
