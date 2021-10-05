@@ -10,12 +10,12 @@
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-- ❤️&nbspI love building beautiful websites and apps.
+- ❤️&nbsp;I love building beautiful websites and apps.
   
-- 🔵&nbspI'm currenty working at Xero as a Graduate Engineer.
+- 🔵&nbsp;I'm currenty working at Xero as a Graduate Engineer.
   
-- 📈&nbspIn my spare time I'm working on Hedges.
+- 📈&nbsp;In my spare time I'm working on Hedges.
 
-- 🌱&nbspI’m currently learning Ionic, Node.js and PostgreSQL.
+- 🌱&nbsp;I’m currently learning Ionic, Node.js and PostgreSQL.
   
-- 📫&nbspReach me at [joshuarichards001@gmail.com](mailto:joshuarichards001@gmail.com)
+- 📫&nbsp;Reach me at [joshuarichards001@gmail.com](mailto:joshuarichards001@gmail.com)
