@@ -14,5 +14,4 @@ My name's [Josh](https://joshrichards.dev), welcome to my GitHub Profile!
 - 🔵&nbsp;&nbsp;I'm currenty working at Xero as a Graduate Engineer.
 - 📈&nbsp;&nbsp;In my spare time I'm working on [Hedges](https://hedges.app/) (WIP).
 - 🌱&nbsp;&nbsp;I work a lot with React, Node.js and PostgreSQL.
-- 🌟&nbsp;&nbsp;I'm Passionate about watches, finance, walks and piano.
 - 📫&nbsp;&nbsp;Reach me at [joshuarichards001@gmail.com](mailto:joshuarichards001@gmail.com)
