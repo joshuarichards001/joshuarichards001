@@ -11,7 +11,7 @@ My name's [Josh](https://joshrichards.dev), welcome to my GitHub Profile!
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
 - ❤️&nbsp;&nbsp;I love building beautiful user experiences.
-- 🔵&nbsp;&nbsp;I'm currenty working at [Xero]("https://xero.com/") as a Graduate Engineer.
+- 🔵&nbsp;&nbsp;I'm currenty working at [Xero](https://xero.com/) as a Graduate Engineer.
 - 📈&nbsp;&nbsp;In my spare time I'm building [Hedges](https://hedges.app/).
 - 🌱&nbsp;&nbsp;I work a lot with React and Node with Typescript.
 - 📫&nbsp;&nbsp;Reach me at [joshuarichards001@gmail.com](mailto:joshuarichards001@gmail.com)
