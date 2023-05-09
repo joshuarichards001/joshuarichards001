@@ -4,7 +4,7 @@
 
 <h1> Hello There </h1>
 
-My name's [Josh](https://joshrichards.dev), welcome to my GitHub Profile!
+My name's [Josh](https://josh.work), welcome to my GitHub Profile!
 
 <h2> About Me </h2>
   
