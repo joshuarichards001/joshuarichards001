@@ -10,4 +10,4 @@ My name's [Josh](https://josh.work), welcome to my GitHub Profile!
   
 - ❤️&nbsp;&nbsp;I love building beautiful user experiences.
 - 🔵&nbsp;&nbsp;I'm currenty working at [Xero](https://xero.com/) as a Software Engineer.
-- 📫&nbsp;&nbsp;Reach me at [joshuarichards001@gmail.com](mailto:joshuarichards001@gmail.com)
+- 📫&nbsp;&nbsp;Reach me at [hello@josh.work](mailto:hello@josh.work)
